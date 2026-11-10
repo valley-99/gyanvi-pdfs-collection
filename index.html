@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gyanvi Premium Library</title>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Animated Background Orbs -->
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+  <div class="bg-orb orb-3"></div>
+
+  <!-- Top Navbar -->
+  <nav class="navbar glass">
+    <div class="nav-brand">
+      <button id="menu-btn" class="mobile-menu-btn">☰</button>
+      <span class="brand-name">⚡ GYANVI <span class="highlight">VAULT</span></span>
+    </div>
+    <div class="nav-links">
+      <span class="badge">Premium Access</span>
+    </div>
+  </nav>
+
+  <div class="layout">
+    <!-- Sidebar for Categories -->
+    <aside id="sidebar" class="sidebar glass">
+      <div class="sidebar-header">
+        <h3>Explore Categories</h3>
+      </div>
+      <ul id="category-list" class="category-list">
+        <!-- JS will load categories here -->
+      </ul>
+    </aside>
+
+    <!-- Overlay for mobile sidebar -->
+    <div id="overlay" class="overlay"></div>
+
+    <!-- Main Content Area -->
+    <main id="app" class="content-area">
+      
+      <!-- Premium Welcome Screen (Hero Section) -->
+      <div class="welcome-screen animate-pop">
+        <div class="hero-content">
+          <h1 class="hero-title">Unlock Your <span class="gradient-text">Next Level</span> of Earning</h1>
+          <p class="hero-subtitle">Welcome to Gyanvi Vault. Explore our premium, well-structured MLM compensation plans, matrix structures, and advanced growth strategies curated for leaders.</p>
+          
+          <div class="features-row">
+            <div class="feature-box">
+              <span class="f-icon">💎</span>
+              <h4>Premium Quality</h4>
+              <p>Handpicked strategic plans.</p>
+            </div>
+            <div class="feature-box">
+              <span class="f-icon">🚀</span>
+              <h4>Fast Growth</h4>
+              <p>Structured for maximum reach.</p>
+            </div>
+            <div class="feature-box">
+              <span class="f-icon">🛡️</span>
+              <h4>100% Verified</h4>
+              <p>Trusted by top networkers.</p>
+            </div>
+          </div>
+
+          <p class="instruction-text">👈 Select a category from the menu to start exploring.</p>
+        </div>
+      </div>
+
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

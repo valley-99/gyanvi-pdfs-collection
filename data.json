@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "name": "Binary Plan",
+      "description": "Advanced Binary plan PDF documents",
+      "files": [
+        { "title": "Alicenta Wellness", "file": "pdfs/binary/Alicenta Wellness .pdf" },
+        { "title": "Jeevan Jyoti", "file": "pdfs/binary/JEEVAN JYOTI.pdf" },
+        { "title": "Kinitix India (KIPL) - 1", "file": "pdfs/binary/KINITIX INDIA PRIVATE LIMITED (KIPL) (...).pdf" },
+        { "title": "Kinitix India (KIPL) - 2", "file": "pdfs/binary/KINITIX INDIA PRIVATE LIMITED (KIPL) (...).pdf" },
+        { "title": "SaveNGrow", "file": "pdfs/binary/SaveNgrow.pdf" },
+        { "title": "Smart Vision", "file": "pdfs/binary/smart vision .pdf" }
+      ]
+    },
+    {
+      "name": "Generation Plan",
+      "description": "Advanced Generation plan PDF documents",
+      "files": [
+        { "title": "ASO Digital", "file": "pdfs/generationplan/ASO DIGITAL .pdf" },
+        { "title": "True Well Net", "file": "pdfs/generationplan/true well net final pdf (1).pdf" }
+      ]
+    },
+    {
+      "name": "Level Plan",
+      "description": "Structured level-based earning system",
+      "files": [
+        { "title": "Budha", "file": "pdfs/levelplan/budha .pdf" },
+        { "title": "Trywin Wellness", "file": "pdfs/levelplan/Trywin wellness (2).pdf" }
+      ]
+    },
+    {
+      "name": "Matrix Plan",
+      "description": "Smart matrix structure documents",
+      "files": [
+        { "title": "ZBS Marketing", "file": "pdfs/matrixplan/_ZBS marketing .pdf" },
+        { "title": "PSB Marketing", "file": "pdfs/matrixplan/PSB Marketing pdf .pdf" },
+        { "title": "Sippi Digital Axom", "file": "pdfs/matrixplan/WELCOME TO SIPPI DIGITAL AXOM ne....pdf" },
+        { "title": "Zentech Marketing", "file": "pdfs/matrixplan/Zentech marketing .pdf" }
+      ]
+    }
+  ]
+}
